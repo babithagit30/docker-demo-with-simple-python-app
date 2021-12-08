@@ -9,5 +9,5 @@ spec:
   - name: python-babitha
     image: babithagit30/docker-demo-with-simple-python-app
     ports:
-    - name:python-port
+    - name: python-port
       containerPort: 8091
