@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
   - name: python-babitha
-    image: babithagit30/docker-demo-with-simple-python-app
+    image: babithadocker/babitha-first-repo
     ports:
     - name: python-port
       containerPort: 3000
